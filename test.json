@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pizza 1",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "name": "Margarita",
+        "price": 10,
+        "quantity": 1,
+        "ingredients": [
+
+            {
+                "name": "mushrooms",
+                "price": 3,
+                "quantity": 1
+            },
+
+            {
+                "name": "tomatoes",
+                "price": 4,
+                "quantity": 1
+            }
+        ]
+
+    }
+]

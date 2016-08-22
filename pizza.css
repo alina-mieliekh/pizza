@@ -1,0 +1,19 @@
+title {
+  color: aqua;
+}
+body {
+  background-color: red;
+}
+#main-page {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+.pizza {
+  width: 196px;
+  height: 195px;
+  background-color: orange;
+  vertical-align: bottom;
+  font: bold 17px "Times New Roman";
+  color: white;
+}
