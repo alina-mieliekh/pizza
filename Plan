@@ -1,0 +1,27 @@
+First page (menu):
+
+1. Creating buttons for pizzas' menu (UI).              +
+2. Create templates for pizzas' default values.         +
+3. Create template for cart.
+4. Add click events for buttons.
+* Finish with visual view for the first page.
+
+
+Second page(ingredients):
+
+5. UI.
+6. Adding ingredients.
+7. Deleting ingredients.
+
+
+Third page (order page):
+
+8. UI(table with pizzas & prices & total).
+9. Pay button.
+10. Parce cart to gat names, prices & total.
+
+
+Forth page (success):
+
+11. Display two phrases.
+12. Return button to main page.
